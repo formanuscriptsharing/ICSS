@@ -26,4 +26,8 @@ Submitted to the INFORMS Computing Society (ICS) Student Paper Award, 2026.
 - Appendix Q: Pseudo codes
 - Appendix R: Additional discussion
 
+## Demonstration Video
+
+[`DSF_filtered_result.mp4`](DSF_filtered_result.mp4) shows the filtering result of the proposed Dynamic Similarity Filtering (DSF) algorithm on a production video: irrelevant and anomalous actions are removed, and the retained standard operations are segmented into steps.
+
 The main paper (25 pages including references) and the in-paper appendices (10 pages: proofs, evaluation protocol and metric definitions, and the table of supplemental contents) are provided in the award submission package.
